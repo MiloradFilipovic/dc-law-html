@@ -1,9 +1,9 @@
 {
   "APPVEYOR_BUILD_VERSION": "1.0.2457",
   "APPVEYOR_PROJECT_NAME": "dc-law-xml",
-  "DATE": "2019-05-10 05:21:10",
+  "DATE": "2019-05-10 05:27:53",
   "dc-law-xml": "b45aeceb1963200028f7b0315edfde7746405a1f",
-  "dc-law-xml-codified": "c5a52db11fed4112c4375bb0df2733a4a7b21291",
+  "dc-law-xml-codified": "a4189f295a1abaa49d89d8ad9ac67533e9dc0842",
   "oll-core": "2019.2.1",
   "oll-partners-us-dc": "2019.2.1",
   "open-law-publish-client": null
